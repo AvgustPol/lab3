@@ -1,0 +1,9 @@
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\bin\Debug\AntonVlasiukLab3Databases.exe.config
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\bin\Debug\AntonVlasiukLab3Databases.exe
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\bin\Debug\AntonVlasiukLab3Databases.pdb
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\obj\Debug\AntonVlasiukLab3Databases.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\obj\Debug\AntonVlasiukLab3Databases.Form1.resources
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\obj\Debug\AntonVlasiukLab3Databases.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\obj\Debug\AntonVlasiukLab3Databases.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\obj\Debug\AntonVlasiukLab3Databases.exe
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukLab3Databases\AntonVlasiukLab3Databases\obj\Debug\AntonVlasiukLab3Databases.pdb

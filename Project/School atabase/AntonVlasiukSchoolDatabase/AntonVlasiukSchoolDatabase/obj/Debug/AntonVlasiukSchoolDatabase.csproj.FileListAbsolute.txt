@@ -1,0 +1,18 @@
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\bin\Debug\AntonVlasiukSchoolDatabase.exe.config
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\bin\Debug\AntonVlasiukSchoolDatabase.exe
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\bin\Debug\AntonVlasiukSchoolDatabase.pdb
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.Properties.Resources.resources
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.csproj.GenerateResource.Cache
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.exe
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.pdb
+c:\users\anton\documents\visual studio 2015\Projects\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.FormMain.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\bin\Debug\AntonVlasiukSchoolDatabase.exe.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\bin\Debug\AntonVlasiukSchoolDatabase.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\bin\Debug\AntonVlasiukSchoolDatabase.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.FormMain.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie1\AntonVlasiukSchoolDatabase\AntonVlasiukSchoolDatabase\obj\Debug\AntonVlasiukSchoolDatabase.csproj.GenerateResource.Cache

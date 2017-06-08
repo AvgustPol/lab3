@@ -1,0 +1,21 @@
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.exe.config
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.exe
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.pdb
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.csprojResolveAssemblyReference.cache
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.Form1.resources
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.csproj.GenerateResource.Cache
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.exe
+c:\users\adrianna\documents\visual studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\bin\Debug\Zoo.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.Form1.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Zoo\Zoo\obj\Debug\Zoo.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie0\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie0\Zoo\obj\Debug\Zoo.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\Git folder\anton_vlasiuk\Lab3\Zadanie domowe\Zadanie0\Zoo\obj\Debug\Zoo.pdb
